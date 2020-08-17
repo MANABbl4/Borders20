@@ -13,6 +13,12 @@
   ],
   "include": [
     "src/**/*.spec.ts",
-    "src/**/*.d.ts"
+    "src/**/*.d.ts",
+    "src/css/*.*",
+    "src/files/*.*",
+    "src/images/*.*",
+    "src/js/*.*",
+    "src/photos/*.*",
+    "src/voice_messages/*.*"
   ]
 }
