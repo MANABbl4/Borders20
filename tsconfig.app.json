@@ -6,7 +6,13 @@
   },
   "files": [
     "src/main.ts",
-    "src/polyfills.ts"
+    "src/polyfills.ts",
+    "src/css/*",
+    "src/files/*",
+    "src/images/*",
+    "src/js/*",
+    "src/photos/*",
+    "src/voice_messages/*"
   ],
   "include": [
     "src/**/*.d.ts"
